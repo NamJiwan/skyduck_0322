@@ -1,0 +1,11 @@
+.replies {
+    padding-left: 10%;
+}
+
+.replies:hover {
+    cursor: pointer;
+}
+
+.detail_page:hover{
+    cursor: pointer;
+}
